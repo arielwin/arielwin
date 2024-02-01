@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently contracted to the Department Of Transportation Federal Highway Adminstration (DOT FHWA) as a GIS QA Specialist, inventorying roads within parks managed by the National Park Service (NPS), Bureau of Land Management (BLM), and Fish and Wildlife.
+I am currently working to develop skills which will help automate daily tasks and long term projects. 
+ 
