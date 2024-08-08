@@ -1,5 +1,5 @@
 ### Hi there 👋
-Glad you could join me here on GitHuB!
+Glad you could join me here on GitHub!
 
 I am currently enrolled in the Software Engineering Bootcamp with General Assembly! The course is slated to end September 12, 2024.
 
